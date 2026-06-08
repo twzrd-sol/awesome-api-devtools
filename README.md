@@ -284,6 +284,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz): On-chain trust scoring for AI agent wallets on Solana. MCP server providing `score_agent` and `preflight_check` tools — verify agent wallet identity before authorizing x402 micropayment-gated API access. [MCP](https://intel.twzrd.xyz/mcp)
 
 ## API Web Scanners
 - [Cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
